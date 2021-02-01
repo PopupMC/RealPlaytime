@@ -1,0 +1,11 @@
+name: RealPlaytime
+version: 1.0
+main: com.popupmc.realplaytime.RealPlaytime
+description: Real Playtime
+author: junebug12851
+api-version: 1.15
+
+commands:
+  rpt:
+    description: Real Playtime
+    usage: /rpt
